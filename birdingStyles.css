@@ -1,0 +1,55 @@
+body
+{
+  background-color: #FAF8DA;
+}
+.mainName
+{
+  text-align: center;
+  font-size: 50px;
+}
+.syzovoronkaWiki
+{
+  color: #2cbed4;
+  font-size: 20px;
+  text-align: center;
+}
+.schurkaWiki
+{
+  color: #dba12c;
+  font-size: 20px;
+  text-align: center;
+}
+.lastochkaWiki
+{
+  color: #16599c;
+  font-size: 20px;
+  text-align: center;
+}
+.syzovoronkaPhoto
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.schurkaPhoto
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.lastochkaPhoto
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.border
+{
+  border-style: solid;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 50px;
+}
